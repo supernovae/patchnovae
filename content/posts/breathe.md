@@ -19,13 +19,15 @@ Breathe is available and streaming on your favorite service.
 
 ## Details
 
-Patched on a Make Noise Shared System
-Produced on Ableton Live
-Distributed with SoundCloud
+Made with love
+
+* Patched on a Make Noise Shared System
+* Produced on Ableton Live
+* Distributed with SoundCloud
 
 ## Listen on SoundCloud
 
-{{< soundcloud 21315d8ac4de48508cece6729e4cf60e >}}
+{{< soundcloud-track 1689721983 >}}
 
 ## Listen on Spotify
 
