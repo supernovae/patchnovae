@@ -17,6 +17,10 @@ Breathe is available and streaming on your favorite service.
 
 <!--more-->
 
-## Headings
+## Listen on Spotify
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+{{< spotify type="album" id="58gwGcOljBFfT5KwCS65mj" width="100%" height="250" >}}
+
+## Listen on Apple Music
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/breathe-single/1724011840"></iframe>
