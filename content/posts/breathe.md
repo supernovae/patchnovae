@@ -7,8 +7,8 @@ tags: ["breath", "music", "spotify", "applemusic", "soundcloud"]
 categories: ["music"]
 series: ["Music"]
 cover:
-  image: images/msg.png
-  caption: "Generated using [OG Image Playground by Vercel](https://og-playground.vercel.app/)"
+  image: images/breathe.jpg
+  caption: "Image taken by Patch Novae of Elephant Trunk Nebula with stars removed"
 ShowToc: true
 TocOpen: true
 ---
@@ -17,10 +17,17 @@ Breathe is available and streaming on your favorite service.
 
 <!--more-->
 
+## Details
+
+Patched on a Make Noise Shared System
+Produced on Ableton Live
+Distributed with SoundCloud
+
+## Listen on SoundCloud
+
+{{< soundcloud 21315d8ac4de48508cece6729e4cf60e >}}
+
 ## Listen on Spotify
 
 {{< spotify type="album" id="58gwGcOljBFfT5KwCS65mj" width="100%" height="250" >}}
 
-## Listen on Apple Music
-
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/breathe-single/1724011840"></iframe>
