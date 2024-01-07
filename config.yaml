@@ -21,7 +21,7 @@ params:
   keywords: [patchnovae, music, electronic music, synthesis]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["images/patch-novae.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -41,6 +41,7 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: true
+  images: ["images/patch-novae.jpg"]
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -59,12 +60,13 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    title: "Hi there \U0001F44B"
+    subtitle: "Beep Boop Bop Beep Boop. You have reached PatchNovae. We're still building things around here. Check out our Posts for links to released songs. 
+      please contact us via email patch@patchnovae.com"
+    imageUrl: "images/patchnovae.jpg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: Patch Novae
     buttons:
       - name: Posts
         url: posts
@@ -74,7 +76,12 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Beep Boop Bop Beep Boop. You have reached PatchNovae, please contact us via email patch@patchnovae.com
+    Content: Beep Boop Bop Beep Boop. You have reached PatchNovae. We're still building things around here. Check out our Posts for links to released songs. <p> please contact us via email patch@patchnovae.com
+      # new
+    imageUrl: "images/patchnovae.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: Patch Novae
 
   socialIcons:
     - name: spotify
@@ -84,7 +91,11 @@ params:
     - name: instagram
       url: "https://instagram.com/patchnovae"
     - name: facebook
-      url: "https://facebook.com/patchnovae/"
+      url: "https://facebook.com/patchnovae"
+    - name: twitter
+      url: "https://twitter.com/patchnovae"
+    - name: email
+      url: "mailto:patch@patchnovae.com"
 
   analytics:
     google:
