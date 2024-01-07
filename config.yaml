@@ -14,6 +14,12 @@ minify:
   disableXML: true
   minifyOutput: true
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: PatchNovae
@@ -127,6 +133,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 5
     - identifier: categories
       name: categories
       url: /categories/
@@ -135,6 +145,10 @@ menu:
       name: tags
       url: /tags/
       weight: 20
+    - identifier: search
+      name: search
+      url: /search
+      weight: 25
     - identifier: ffm.bio
       name: ffm.bio
       url: https://ffm.bio/patchnovae

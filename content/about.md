@@ -1,6 +1,5 @@
 ---
-title: "Search"
+title: "about PatchNovae"
 placeholder: Search PatchNovae
 layout: "search"
-summary: "Search"
 ---
