@@ -7,8 +7,12 @@ tags: ["breath", "music", "spotify", "applemusic", "soundcloud"]
 categories: ["music"]
 series: ["Music"]
 cover:
-  image: images/breathe.jpg
+  image: "breathe.jpg"
   caption: "Image taken by Patch Novae of Elephant Trunk Nebula with stars removed"
+  relative: true
+params:
+  cover:
+    linkFullImages: true
 ShowToc: true
 TocOpen: true
 ---
